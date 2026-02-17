@@ -59,9 +59,8 @@ const Footer = () => {
             </motion.a>
           </div>
 
-          {/* Made with love */}
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Made with <Heart className="w-4 h-4 text-primary fill-primary" /> in India
+            Built by Boopathi • Developer <Heart className="w-4 h-4 text-primary fill-primary" />
           </p>
         </motion.div>
       </div>
